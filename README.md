@@ -1,0 +1,1 @@
+Este projeto foi realizado no ano de 2020, foi a primeira vez em que desenvolvi algo que não fosse simples exercícios de cursos. Este projeto foi realizado visando obter conhecimento e atender as necessidades do servidor de um conhecido.
